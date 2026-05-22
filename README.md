@@ -2,7 +2,7 @@
 
 A simple terminal-based number guessing game built using Python where the computer picks a random number and you try to guess it.
 
-**How to Run**
+**How to Run:**
 Clone the repo:
 git clone https://github.com/YOUR_USERNAME/python-guessing-game.git
 
@@ -12,13 +12,13 @@ cd python-guessing-game
 **Run the game:**
 python main.py
 
-**How It Works**
+**How It Works:**
 The computer generates a random number. You keep guessing until you find the correct number. The game tells you if your guess is too high or too low.
 
-**Features**
+**Features:**
 - Random number generation
 - Simple input/output system
 - Beginner-friendly Python logic
 
-**Author**
+**Author:**
 Made by Shaikh Ashmaan Haroon
